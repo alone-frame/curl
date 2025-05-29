@@ -1,3 +1,8 @@
+```text
+composer config repositories.alone-frame/curl vcs http://git.cn/alone-frame/curl
+composer require alone-frame/curl:dev-main
+```
+
 # 设置全局代理IP
 
 ```php
