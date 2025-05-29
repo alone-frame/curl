@@ -1,0 +1,12 @@
+{
+  "name":"alone-frame/curl",
+  "license":"MIT",
+  "require":{
+    "php":">=8.0"
+  },
+  "autoload":{
+    "psr-4":{
+      "AloneFrame\\curl\\":"src"
+    }
+  }
+}
